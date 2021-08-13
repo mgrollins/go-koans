@@ -1,5 +1,11 @@
 # Go Koans
 
+Update: I, @mgrollins have updated from the fork from @cdarwin. I am testing
+the new web editor on gh to test a direct update that is easier to do "here" 
+...(maybe)
+
+
+@cdarwin sez:
 I'm not sure how this ever got popular under my namespace, but it seems to have
 enough interest that I feel compelled to maintain it now. The original author,
 [Steven Degutis](https://github.com/sdegutis), committed the initial suite of
